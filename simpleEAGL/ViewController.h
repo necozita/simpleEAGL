@@ -2,8 +2,8 @@
 //  ViewController.h
 //  simpleEAGL
 //
-//  Created by 城市　博史 on 2014/11/20.
-//  Copyright (c) 2014年 城市　博史. All rights reserved.
+//  Created by necozita on 2014/11/20.
+//  Copyright (c) 2014年 necozita. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

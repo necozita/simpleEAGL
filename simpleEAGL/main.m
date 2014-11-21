@@ -2,7 +2,7 @@
 //  main.m
 //  simpleEAGL
 //
-//  Created by 城市　博史 on 2014/11/20.
+//  Created by necozita on 2014/11/20.
 //  Copyright (c) 2014年 ___FULLUSERNAME___. All rights reserved.
 //
 
